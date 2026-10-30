@@ -52,18 +52,29 @@ and can execute programs written in ageno's built-in scripting language.
 
 ## 2. Installation & Startup
 
-### Build
-
-```bash
-cargo build --release
-```
-
 ### Run
 
-```bash
-./ageno
-# or
-sh run.sh
+- **On Windows:** Run `ageno-windows-x64.exe`
+- **On Windows (ARM-64):** Run `ageno-windows-arm64.exe`
+- **On Linux:**
+```shell
+chmod +x ageno-linux-x64
+./ageno-linux-x64
+```
+- **On Linux (ARM-64):**
+```shell
+chmod +x ageno-linux-arm64
+./ageno-linux-arm64
+```
+- **On macOS X:**
+```shell
+chmod +x ageno-mac-x64
+./ageno-mac-x64
+```
+- **On macOS X (ARM-64):**
+```shell
+chmod +x ageno-mac-arm64
+./ageno-mac-arm64
 ```
 
 On startup, the console displays a banner:
