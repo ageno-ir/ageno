@@ -1,17 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════════
-     فونت وزیرمتن — روی GitHub استایل استریپ می‌شود، ولی روی پیش‌نمایش
-     محلی / GitLab / VS Code / ابزارهای دیگر اعمال می‌شود.
-     ═══════════════════════════════════════════════════════════════════ -->
-<style>
-@import url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css');
-body, div, span, table, td, th, p, li, h1, h2, h3, h4, h5, h6 {
-  font-family: 'Vazirmatn', Tahoma, sans-serif;
-}
-</style>
-
-<div dir="rtl" style="font-family: 'Vazirmatn', Tahoma, sans-serif; text-align: right; line-height: 1.9;">
-
-<div align="center" dir="ltr">
 
 <pre>
 ╭────────────────────────────────────────────────────╮
@@ -1524,7 +1510,5 @@ myfn 1 2                # shell-like
 
 [![Website](https://img.shields.io/badge/ageno.ir-visit-9333ea?style=flat-square&logo=firefox&logoColor=white)](https://ageno.ir)
 [![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F-e11d48?style=flat-square)](https://ageno.ir)
-
-</div>
 
 </div>
